@@ -1,4 +1,4 @@
-# Programming Project
+# Counterfactual Regret Minimisation Project
 #### Seminar: Theory and Algorithms of Puzzles and Games
 #### Subject: Poker
 #### Author: Max Jappert
